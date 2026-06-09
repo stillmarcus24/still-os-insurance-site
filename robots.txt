@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR_PUBLIC_DOMAIN/sitemap.xml
+Sitemap: https://stillmarcus24.github.io/still-os-insurance-site/sitemap.xml
